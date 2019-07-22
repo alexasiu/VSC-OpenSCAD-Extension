@@ -1,1 +1,1 @@
-# tCAD-VSCExtension
+# shapeCAD-VSCExtension
